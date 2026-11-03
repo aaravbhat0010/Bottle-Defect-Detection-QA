@@ -1,0 +1,26 @@
+Recovered saved output from original Colab notebook; not a new run.
+
+Round 1/20 | Training error: 0.12885 | Validation error: 0.12334
+Round 2/20 | Training error: 0.10118 | Validation error: 0.06420
+Round 3/20 | Training error: 0.03938 | Validation error: 0.02216
+Round 4/20 | Training error: 0.01709 | Validation error: 0.01178
+Round 5/20 | Training error: 0.01009 | Validation error: 0.00842
+Round 6/20 | Training error: 0.00767 | Validation error: 0.00681
+Round 7/20 | Training error: 0.00634 | Validation error: 0.00583
+Round 8/20 | Training error: 0.00541 | Validation error: 0.00497
+Round 9/20 | Training error: 0.00469 | Validation error: 0.00427
+Round 10/20 | Training error: 0.00405 | Validation error: 0.00368
+Round 11/20 | Training error: 0.00366 | Validation error: 0.00337
+Round 12/20 | Training error: 0.00329 | Validation error: 0.00309
+Round 13/20 | Training error: 0.00298 | Validation error: 0.00284
+Round 14/20 | Training error: 0.00285 | Validation error: 0.00287
+Round 15/20 | Training error: 0.00277 | Validation error: 0.00263
+Round 16/20 | Training error: 0.00257 | Validation error: 0.00248
+Round 17/20 | Training error: 0.00243 | Validation error: 0.00232
+Round 18/20 | Training error: 0.00230 | Validation error: 0.00227
+Round 19/20 | Training error: 0.00225 | Validation error: 0.00222
+Round 20/20 | Training error: 0.00226 | Validation error: 0.00217
+
+Training finished.
+Best validation error: 0.002167530424360718
+Saved to artifacts/bottle_autoencoder.pt

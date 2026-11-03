@@ -1,0 +1,14 @@
+Recovered saved output from original Colab notebook; not a new run.
+
+Normal test photos: 20
+Defective test photos: 63
+ROC-AUC: 0.6087301587301588
+Precision: 0.7954545454545454
+Recall: 0.5555555555555556
+F1: 0.6542056074766355
+
+Confusion matrix:
+[[11  9]
+ [28 35]]
+Rows = actual [normal, defective]
+Columns = predicted [normal, defective]

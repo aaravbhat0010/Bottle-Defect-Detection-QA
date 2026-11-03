@@ -1,0 +1,5 @@
+Recovered saved output from original Colab notebook; not a new run.
+
+Validation photos checked: 42
+Defect cutoff: 0.002495901833754033
+Normal photos above cutoff: 3

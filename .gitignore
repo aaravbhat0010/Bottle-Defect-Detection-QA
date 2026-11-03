@@ -1,0 +1,17 @@
+data/
+artifacts/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.zip
+*.tar*
+.env
+.env.*
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.png
+*.jpg
+*.jpeg

@@ -1,0 +1,4 @@
+Recovered saved output from original Colab notebook; not a new run.
+
+PyTorch version: 2.11.0+cpu
+GPU available: False
